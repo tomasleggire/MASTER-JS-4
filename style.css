@@ -1,0 +1,40 @@
+ 
+                               /*
+body {
+    width: 2000px;
+    height: 2000px;  
+} 
+                              */
+
+                              /*
+canvas {
+    margin: 40px;
+    border: 1px solid #000;
+}
+                            */
+
+body, div {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #ededed;
+}
+
+canvas {
+    border: 1px solid #000;
+}
+
+.editor {
+    margin: 30px;
+    background: #fff;
+    width: fit-content;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+}
